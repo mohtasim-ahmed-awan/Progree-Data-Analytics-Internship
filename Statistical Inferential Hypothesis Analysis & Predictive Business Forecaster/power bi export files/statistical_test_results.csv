@@ -1,0 +1,4 @@
+Test,Statistic,Degrees of Freedom,P-Value,Significance Level,Decision
+Welch Two-Sample T-Test,11.126792468285256,3768.404128203563,2.5543206293568876e-28,0.05,Reject H₀
+One-Way ANOVA,0.6005351680069971,,0.5487682154500749,0.05,Fail to reject H₀
+Chi-Square Test,2.2192010357751824,6.0,0.8984752976229171,0.05,Fail to reject H₀
